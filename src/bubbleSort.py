@@ -67,5 +67,7 @@ def main():
     print("\nOverall Time:", time_passed, "seconds\n") 
     
  
-#start of program - call main function   
-main()
+#start of program - call main function
+
+if __name__ == "__main__":
+    main()
